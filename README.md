@@ -9,7 +9,7 @@ Please use **nested canvases**. You will notice in the MainMenuDemo that each pa
 [Nested Canvases Tutorial](https://learn.unity.com/tutorial/nested-canvas-optimization-2018-4)
 
 ## Documentation
-[Link](https://sernikola.github.io/TabbedUINavigationDocumentation/]
+[Link](https://sernikola.github.io/TabbedUINavigationDocumentation/)
 
 ## Usage
 To simply use a **scrollable UI**, you can just add the FAScrollSnapBehaviour script on your scroll view, and play with the settings to achieve your desired speed or size.

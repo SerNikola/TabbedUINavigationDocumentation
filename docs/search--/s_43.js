@@ -1,0 +1,1 @@
+search_result['43']=["topic_0000000000000010.html","fastSwipeThresholdDistance Field","Gets or sets threshold time for fast swipe in (unscaled) pixels. Default is 50."];

@@ -1,0 +1,1 @@
+search_result['45']=["topic_0000000000000012.html","snapToFirst Field","If true, will snap to the first item, if false, will decelarate freely then snap when decelarationLimit is reached."];

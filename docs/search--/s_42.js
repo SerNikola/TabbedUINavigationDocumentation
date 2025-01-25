@@ -1,0 +1,1 @@
+search_result['42']=["topic_000000000000000F.html","fastSwipeThresholdTime Field","Gets or sets the threshold time for fast swipe in seconds. Default is 0.3f."];

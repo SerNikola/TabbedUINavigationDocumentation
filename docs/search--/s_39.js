@@ -1,0 +1,1 @@
+search_result['39']=["topic_000000000000000C.html","FAScrollSnapBehaviour.IsHorizontal Property","Gets the scrolling orientation of the FAScrollSnapBehaviour"];

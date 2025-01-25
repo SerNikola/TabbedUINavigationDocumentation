@@ -1,0 +1,1 @@
+search_result['65']=["topic_000000000000001C.html","ScrollPercentageEvent Class","Occurs when the ScrollRect is scrolled.\r\nThe passed float argument holds the normalized value of the scrolled percentage.\r\n0f means first page is selected. 1f means last page is selected.\r\nUseful for ..."];

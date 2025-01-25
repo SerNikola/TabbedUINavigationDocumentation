@@ -1,0 +1,1 @@
+search_result['142']=["topic_0000000000000037.html","FAScrollSnapItemSettings.Position Property","Gets or sets the calculated anchoredPosition of the FAScrollSnapBehaviour\u0027s content, where the item is considered selected."];

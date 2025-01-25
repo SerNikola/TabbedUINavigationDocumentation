@@ -1,0 +1,1 @@
+search_result['50']=["topic_0000000000000017.html","heightMultiplier Field","Gets or sets how tall should one item be in relation to the ScrollRect Height.\r\n1f means same height, 0.5f means half height.\r\nWorks only if ScrollRect is vertical."];

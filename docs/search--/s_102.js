@@ -1,0 +1,1 @@
+search_result['102']=["topic_0000000000000023.html","onScrolledPercentage Field","Occurs when the ScrollRect is scrolled.\r\nThe passed float argument holds the normalized value of the scrolled percentage.\r\n0f means first page is selected. 1f means last page is selected.\r\nUseful for ..."];

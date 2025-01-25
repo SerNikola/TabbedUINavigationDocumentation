@@ -1,0 +1,1 @@
+search_result['37']=["topic_000000000000000A.html","FAScrollSnapBehaviour.Velocity Property","Get the scroll view velocity (velocity != 0 only when scroll view is dragged, when button is clicked velocity == 0)"];

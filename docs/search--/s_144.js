@@ -1,0 +1,1 @@
+search_result['144']=["topic_0000000000000039.html","FAScrollSnapItemSettings.IsHorisontal Property","Gets or sets a value indicating whether the ScrollView is horizontal (or vertical) ."];

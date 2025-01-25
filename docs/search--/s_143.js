@@ -1,0 +1,1 @@
+search_result['143']=["topic_0000000000000038.html","FAScrollSnapItemSettings.Difference Property","Gets or sets the difference in Screen Space units between two items in the ScrollView collection."];

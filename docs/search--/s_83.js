@@ -1,0 +1,1 @@
+search_result['83']=["topic_000000000000001F.html","ScrollEndedEvent Class","Occurs when scrolling has completely ended.\r\nUseful for cleaning up effects and animations."];

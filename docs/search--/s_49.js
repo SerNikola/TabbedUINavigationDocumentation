@@ -1,0 +1,1 @@
+search_result['49']=["topic_0000000000000016.html","widthMultiplier Field","Gets or sets how wide should one item be in relation to the ScrollRect Width.\r\n1f means same width, 0.5f means half width.\r\nWorks only if ScrollRect is horizontal."];

@@ -1,0 +1,1 @@
+search_result['53']=["topic_000000000000001A.html","innerScrolls Field","If you have inner scroll views that scroll in the opposite direction of this ScrollSnapRect, you should add them here so the Drag Event is propagaded to this ScrollSnapRect.\r\nShould be set in inspecto..."];

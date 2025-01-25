@@ -1,0 +1,1 @@
+search_result['46']=["topic_0000000000000013.html","decelarationLimit Field","When decelarating freely, Gets or sets how slowed should the scrolling speed be before snapping."];

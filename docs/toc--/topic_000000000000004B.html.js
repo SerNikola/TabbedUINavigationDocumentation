@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Tabbed UI Navigation Reference","topic_000000000000004C.html"],['4',"FA Namespace","topic_0000000000000000.html"],['80',"FATabBarEffect Class","topic_0000000000000046.html"],['81',"Properties","topic_0000000000000046_props--.html"],['84',"TitleAlpha Property","topic_000000000000004B.html"]];

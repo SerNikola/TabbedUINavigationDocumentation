@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Tabbed UI Navigation Reference","topic_000000000000004C.html"],['4',"FA Namespace","topic_0000000000000000.html"],['57',"FAScrollSnapItem Class","topic_0000000000000030.html"],['64',"Fields","topic_0000000000000030_vars--.html"]];

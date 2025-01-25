@@ -1,0 +1,1 @@
+search_result['38']=["topic_000000000000000B.html","FAScrollSnapBehaviour.DidInit Property","Gets the initialization status of the FAScrollSnapBehaviour"];

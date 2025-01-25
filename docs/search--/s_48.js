@@ -1,0 +1,1 @@
+search_result['48']=["topic_0000000000000015.html","forceSize Field","Gets or sets if the this forces to resize the item according to one of the multipliers.\r\nSee widthMultiplier and heightMultiplier/\u003e"];
